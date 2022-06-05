@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Caique0Araujo
-- 👀 I’m interested in work with code.
-- 🌱 I’m currently learning C# and Web Applications
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me caique.ara19@gmail.com
+## Olá, me chamo Caique ! 
+### Bem vindo ao meu perfil GitHub 👋
 
-<!---
-Caique0Araujo/Caique0Araujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Atualmente estou estudando Sistema de informação no IFMG - SJE.
+- 🌱 Atualmente estou aprendendo desenvolvimento web com PHP e Node.Js!
+- 👯 Estou procurando colaborar em sistemas web e desktop.
+- 💬 Pergunte-me sobre qualquer coisa ! mesmo que eu não saiba vou procurar te responder da melhor forma!
+- 📫 Como entrar em contato comigo: caique.19.08@hotmail.com
+- 😄 Pronomes: He/Him
+- ⚡ Curiosidade: Já gostei de Java, acredite se quiser ! kkkk
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+                                                  
