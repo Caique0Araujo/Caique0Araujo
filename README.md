@@ -7,7 +7,7 @@
 - 💬 Pergunte-me sobre qualquer coisa ! mesmo que eu não saiba vou procurar te responder da melhor forma!
 - 📫 Como entrar em contato comigo: caique.19.08@hotmail.com
 - 😄 Pronomes: He/Him
-- ⚡ Curiosidade: Já gostei de Java, acredite se quiser ! kkkk
+- ⚡ Curiosidade: Já gostei de Java, acredite se quiser LOL
 
 ## Ferramentas e Tecnologias
 
