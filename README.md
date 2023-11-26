@@ -1,13 +1,11 @@
 ## Olá, me chamo Caique ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou estudando Sistema de informação no IFMG - SJE.
-- 🌱 Atualmente estou aprendendo desenvolvimento web com PHP e Node.Js!
+- Formado em Sistema de informação no IFMG - SJE.
+- Analista de Testes at Eagle Tecnologia da Informação
 - 👯 Estou procurando colaborar em sistemas web e desktop.
 - 💬 Pergunte-me sobre qualquer coisa ! mesmo que eu não saiba vou procurar te responder da melhor forma!
 - 📫 Como entrar em contato comigo: caique.19.08@hotmail.com
-- 😄 Pronomes: He/Him
-- ⚡ Curiosidade: Já gostei de Java, acredite se quiser LOL
 
 ## Ferramentas e Tecnologias
 
