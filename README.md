@@ -1,17 +1,15 @@
-## Olá, me chamo Caique ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Hello, my name is Caique, what's yours ? 
+### Welcome to my GitHub profile 👋
 
-- Formado em Sistema de informação no IFMG - SJE.
-- Analista de Testes at Eagle Tecnologia da Informação
-- 👯 Estou procurando colaborar em sistemas web e desktop.
-- 💬 Pergunte-me sobre qualquer coisa ! mesmo que eu não saiba vou procurar te responder da melhor forma!
-- 📫 Como entrar em contato comigo: caique.19.08@hotmail.com
+- Bacheolor in System Information @ IFMG - SJE.
+- FullStack Developter @ Eagle Tecnologia
+- 📫 Contact: caique.19.08@hotmail.com
 
-## Ferramentas e Tecnologias
+## Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
                                                   
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://www.youtube.com/channel/UCKHQ1ZM96j0WEHib5gDqhng" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -20,7 +18,7 @@
 <a href="https://www.linkedin.com/in/caique-araújo-0053201b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Minhas estatísticas aqui no GitHub:
+## My GitHub stats:
 
 
 <div>
